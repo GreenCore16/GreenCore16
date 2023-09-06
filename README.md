@@ -1,7 +1,6 @@
 - 🐸 Hi, I’m @GreenCore16
 - -----------------------
 - 🐬 I love the flipper zero!
-- 🎮 I also design games for roblox.
 - ⌨️ If you have any coding tips let me know!
 - -------------------------------------------
 - 📫 How to reach me (Coming Soon)
