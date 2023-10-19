@@ -1,8 +1,7 @@
 - 🐸 Hi, I’m @GreenCore16
 - -----------------------
-- 🐬 I love the flipper zero!
-- ⌨️ If you have any coding tips let me know!
-- -------------------------------------------
+- ⌨️ If you have any programming tips let me know!
+-------------------------------------------
 - 📫 How to reach me (Coming Soon)
 
 <!---
